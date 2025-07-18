@@ -12,7 +12,7 @@ A React-based web tool to visually create dynamic JSON schemas with support for 
 
 ## Demo
 
-> [Live Demo Coming Soon!](#) <!-- Add your Vercel/Netlify link here after deployment -->
+> [Live Demo](https://json-schema-builder-phi.vercel.app/)
 
 ## Tech Stack
 
